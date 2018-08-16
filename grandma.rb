@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(you_say)
-  if you_say
+  if you_say = "I LVOE YOU GRANDMA"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif you_say
